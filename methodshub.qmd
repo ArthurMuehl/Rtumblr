@@ -50,6 +50,9 @@ install.packages("Rtumblr")
 
 The package is used to gather data from Tumblr
 
+## Hardware Requirements
+
+Rtumblr runs on any machine that can run R.
 
 ## How to Use
 
@@ -72,6 +75,9 @@ All function return a tibble (or list of tibble). To get information
 about columns, see the official API documentation:
 <https://www.tumblr.com/docs/en/api/v2>
 
+## Technical Details
+
+Check the official [CRAN page](https://doi.org/10.32614/CRAN.package.Rtumblr) for further information about technical details.
 
 ## Contact Details
 
