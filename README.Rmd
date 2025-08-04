@@ -31,6 +31,10 @@ You can install the development version of Rtumblr like so:
 devtools::install_github("schochastics/Rtumblr")
 ```
 
+## Hardware Requirements
+
+Rtumblr runs on any machine that can run R.
+
 ## API keys
 
 You need to register an app here: <https://www.tumblr.com/oauth/apps>
@@ -62,3 +66,7 @@ Implemented endpoints that work with any account are:
 
 All function return a tibble (or list of tibble). To get information about columns, see the official API documentation:
 <https://www.tumblr.com/docs/en/api/v2>
+
+## Technical Details
+
+Check the official [CRAN page](https://doi.org/10.32614/CRAN.package.Rtumblr) for further information.
