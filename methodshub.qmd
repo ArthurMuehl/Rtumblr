@@ -53,7 +53,7 @@ An implementation of calls designed to collect 'Tumblr' data via its Application
 3. Each use case may list publications in which the use case occurs (e.g., in APA7 style, https://apastyle.apa.org/style-grammar-guidelines/references/examples).
 -->
 
-umblr's distinct culture, characterized by its use of tags, reblogging, and fandom-driven communities, provides valuable data for understanding digital identity expression, subcultures, and the viral spread of content. Researchers can analyze text, images, hashtags, and user interactions to study phenomena such as the formation of online communities, meme culture, or the role of anonymity in fostering authentic self-expression.
+Tumblr's distinct culture, characterized by its use of tags, reblogging, and fandom-driven communities, provides valuable data for understanding digital identity expression, subcultures, and the viral spread of content. Researchers can analyze text, images, hashtags, and user interactions to study phenomena such as the formation of online communities, meme culture, or the role of anonymity in fostering authentic self-expression.
 
 ## Input Data
 <!--
